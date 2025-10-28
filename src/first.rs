@@ -17,5 +17,8 @@ impl List {
        List{
         head:Link::Empty
        } 
+    }
+    pub fn push (&mut self,elem:i32) {
+        
     }     
 }
